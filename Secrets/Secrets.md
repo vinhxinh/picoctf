@@ -8,7 +8,7 @@ Trong file `secret` có một file `index` chứa một GIF không rõ thông ti
 
 Kiểm tra `inspect` một lần nữa có thông tin trong file `secret` có thêm một file `/hidden`. Tiếp tục truy cập mình sẽ đến một trang thông tin đăng nhập như sau.
 
-![](pic1)
+![](https://github.com/vinhxinh/picoctf/blob/main/Secrets/pic1.png?raw=true)
 
 Thử đăng nhập linh tinh và sử dụng một vài tính năng của trang web đều không được. Tiếp tục phải sử dụng `inspect` để tìm thêm thông tin về các file khác tồn tại. Ở file `hidden` này ta còn tìm thấy trong nó còn 1 file `superhidden` nữa. Truy caaph vào ta thấy một dòng thông báo:
 
